@@ -3,8 +3,22 @@ body {
     font-family: open sans, sans-serif;
     background-color: #8a71c9;
     color: #ffffffb7;
+    margin: 0px;
 }
 
 h2 {
     color: #2a0074;
+    font-size: 40px;
+}
+
+.infancia{
+    color: #04ff9f;
+}
+
+.juventude{
+    color: #FF9E9E;
+}
+
+.vida-adulta{
+    color: #ffe36d;
 }
