@@ -38,7 +38,6 @@ h3{
   font-style: italic;
 }
 
-
 p{
   line-height: 1.5;
   font-size: 20px;
@@ -46,4 +45,15 @@ p{
 
 img{
   width: 100%;
+}
+
+ul {
+  list-style-type: none;
+  line-height: 2;
+}
+
+a {
+  text-decoration: none;
+  color: #9ff;
+  font-weight: 700;
 }
