@@ -59,9 +59,22 @@ a {
   font-weight: 700;
 }
 
+.principal {
+  background-color: #FF6CB5;
+  height: 40px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.principal li{
+  display: inline-block;
+  line-height: 2;
+  margin: 0 89px;
+}
+
 .principal a{
-  color: white;
   font-size: 20px;
   text-decoration: underline;
-  background-color: pink;
+  color: #FFF;
+  font-weight: normal;
 }
